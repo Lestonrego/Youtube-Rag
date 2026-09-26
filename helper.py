@@ -6,7 +6,7 @@ import re
 from sentence_transformers import SentenceTransformer,CrossEncoder
 from groq import Groq
 
-GROQ_API_KEY = ""
+# GROQ_API_KEY = ""
 
 reranker = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
 model = SentenceTransformer("all-MiniLM-L6-v2")
