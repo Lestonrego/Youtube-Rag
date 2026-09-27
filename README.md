@@ -85,7 +85,7 @@ The highest-ranked chunks are provided as context to the LLM along with the user
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/youtube-rag-assistant.git
+git clone https://github.com/Lestonrego/youtube-rag-assistant.git
 cd youtube-rag-assistant
 ```
 
